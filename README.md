@@ -8,3 +8,5 @@ Members:
 - Dylan Bodvig
 
 - Nam Nguyen
+
+- Abraham Almahmoud
